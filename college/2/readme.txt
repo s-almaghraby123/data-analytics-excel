@@ -1,0 +1,5 @@
+-pie chart
+-bar chart
+-pivot table
+-pivot chart
+-dashboard
